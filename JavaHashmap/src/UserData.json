@@ -1,1 +1,34 @@
-{"hari":"hari@gmail.com","raja":"raja@gmail.com","rahul":"rahul@gmail.com","prasath":"prasath@gmail.com"}
+{
+  "10004": {
+    "name": "rahul",
+    "address": "trichy",
+    "dob": "08-01-2002",
+    "email": "rahul@gmail.com",
+    "accountType": "savings",
+    "accountSavings": 214241.0
+  },
+  "10002": {
+    "name": "prasath",
+    "address": "chennai",
+    "dob": "15-06-2001",
+    "email": "prasath@gmail.com",
+    "accountType": "savings",
+    "accountSavings": 124124.0
+  },
+  "10001": {
+    "name": "hari",
+    "address": "trichy",
+    "dob": "29-11-2000",
+    "email": "hari@gmail.com",
+    "accountType": "savings",
+    "accountSavings": 2131241.0
+  },
+  "10003": {
+    "name": "raja",
+    "address": "trichy",
+    "dob": "2-11-2001",
+    "email": "raja@gmail.com",
+    "accountType": "savings",
+    "accountSavings": 121241.0
+  }
+}
