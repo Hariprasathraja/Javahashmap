@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package proto;
+
+message UserDetails {
+  int32 accountNumber = 1;
+  string name = 2;
+  string address = 3;
+  string dob = 4;
+  string email = 5;
+  string accountType = 6;
+  double accountSavings = 7;
+}

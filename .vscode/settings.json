@@ -1,6 +1,7 @@
 {
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "c:\\Users\\Asus-2022\\Downloads\\gson-2.10.1.jar"
+        "c:\\Users\\Asus-2022\\Downloads\\gson-2.10.1.jar",
+        "d:\\protobuf-java-4.27.0-RC1.jar"
     ]
 }
